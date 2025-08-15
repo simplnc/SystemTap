@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Tap, Tap</string>
-    <string name="accessibility_service_description">Servicio de accesibilidad de Tap, Tap\n\n<b>Nota importante: no se recopilan datos de ninguna de sus aplicaciones, este servicio simplemente se utiliza para mantener el reconocimiento activo y proporcionar interacción con el dispositivo</b></string>
+    <string name="app_name">bashamobile</string>
+    <string name="accessibility_service_description">Servicio de accesibilidad de bashamobile\n\n<b>Nota importante: no se recopilan datos de ninguna de sus aplicaciones, este servicio simplemente se utiliza para mantener el reconocimiento activo y proporcionar interacción con el dispositivo</b></string>
     <string name="setting_bottom_nav_gesture">Gestos</string>
     <string name="setting_gates">Compuertas</string>
     <string name="setting_gates_desc">Establecer situaciones en las que el gesto no debe ejecutar una acción</string>
@@ -90,7 +90,7 @@
     <string name="action_launch_shortcut_desc">Inicie un acceso directo tales como las direcciones de Google Maps</string>
     <string name="action_launch_shortcut_desc_formattable">Lanzar %1s (acceso directo en la aplicación)</string>
     <string name="action_launch_shortcut_toast">Este acceso directo actualmente no es compatible</string>
-    <string name="call_phone_permission_toast">Debe otorgar el permiso \"Teléfono\" a Tap, Tap para usar esta acción de acceso directo. Concédelo en la configuración de permisos de tu dispositivo</string>
+    <string name="call_phone_permission_toast">Debe otorgar el permiso \"Teléfono\" a bashamobile para usar esta acción de acceso directo. Concédelo en la configuración de permisos de tu dispositivo</string>
     <string name="action_split_screen">Pantalla dividida</string>
     <string name="action_split_screen_desc">Iniciar o detener el modo de pantalla dividida con la aplicación actual (no funciona cuando está en la pantalla de inicio)</string>
     <string name="action_reachability">Iniciar Fácil alcanze</string>

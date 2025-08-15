@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Tap, Tap</string>
+    <string name="app_name">bashamobile</string>
     <string name="accessibility_service_description">Usługa ułatwień dostępu TapTap\n\n<b>Ważna informacja: Żadne dane nie są zbierane z żadnej z Twoich aplikacji, ta usługa służy po prostu do utrzymywania aktywności rozpoznawania i zapewnienia interakcji z urządzeniem</b></string>
     <string name="setting_bottom_nav_gesture">Gesty</string>
     <string name="setting_gates">Bramy</string>
@@ -90,5 +90,5 @@
     <string name="action_launch_shortcut_desc">Uruchom skrót, taki jak wskazówki w Mapach Google</string>
     <string name="action_launch_shortcut_desc_formattable">Uruchamia %1s (skrót w aplikacji)</string>
     <string name="action_launch_shortcut_toast">Ten skrót nie jest obecnie obsługiwany</string>
-    <string name="call_phone_permission_toast">Musisz przyznać aplikacji Tap, Tap uprawnienie \"Telefon\", aby używać tej akcji. Proszę udziel go w ustawieniach uprawnień urządzenia</string>
+    <string name="call_phone_permission_toast">Musisz przyznać aplikacji bashamobile uprawnienie \"Telefon\", aby używać tej akcji. Proszę udziel go w ustawieniach uprawnień urządzenia</string>
 </resources>
