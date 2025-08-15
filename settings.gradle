@@ -7,7 +7,7 @@ dependencyResolutionManagement {
         jcenter() // Warning: this repository is going to shut down soon
     }
 }
-rootProject.name = "Tap Tap"
+rootProject.name = "System Tap"
 include ':app'
 include ':columbus'
 include ':systemstubs'

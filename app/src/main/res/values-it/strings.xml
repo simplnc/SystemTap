@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">bashamobile</string>
-	<string name="accessibility_service_label">bashamobile</string>
-	<string name="accessibility_service_label_gesture">bashamobile Servizio secondario</string>
+    <string name="app_name">system tap</string>
+	<string name="accessibility_service_label">system tap</string>
+	<string name="accessibility_service_label_gesture">system tap Servizio secondario</string>
     <string name="accessibility_service_description">Servizio accessibilità TapTap\n\n<b>Importante: Nessun dato viene mantenuto, questo servizio è usato semplicemente per mantenere attivo il riconoscimento dell\'evento di tap</b></string>
-	<string name="accessibility_service_description_gesture">bashamobile Gesture Servizio di accessibiltà. \n\n<b>Non c\'è bisogno di attivare questo a meno che l\'app non te lo dica: è richiesto solo per alcune azioni.</b>\n\n<b>Nota Importante: nessun dato è mantenuto, questo servizio è semplicemente usato per l\'interazione con i gesti del dispositivo.\n\nÈ un servizio separato per aggirare un limite di Android per l\'interazione con la UI quando ci sono servizi che eseguono dei gesti. Ad esempio, su Chrome non sarà possibile nascondere la Omnibar quando questo servizio è attivo.</b></string>
+	<string name="accessibility_service_description_gesture">system tap Gesture Servizio di accessibiltà. \n\n<b>Non c\'è bisogno di attivare questo a meno che l\'app non te lo dica: è richiesto solo per alcune azioni.</b>\n\n<b>Nota Importante: nessun dato è mantenuto, questo servizio è semplicemente usato per l\'interazione con i gesti del dispositivo.\n\nÈ un servizio separato per aggirare un limite di Android per l\'interazione con la UI quando ci sono servizi che eseguono dei gesti. Ad esempio, su Chrome non sarà possibile nascondere la Omnibar quando questo servizio è attivo.</b></string>
     <string name="setting_bottom_nav_gesture">Gesti</string>
     <string name="setting_gates">Eccezioni</string>
     <string name="setting_gates_desc">Imposta le situazioni in cui i gesti non dovrebbero eseguire un\'azione</string>
@@ -92,7 +92,7 @@
     <string name="action_launch_shortcut_desc">Lancia una scorciatoia come, ad esempio, le indicazioni stradali di Google Maps</string>
     <string name="action_launch_shortcut_desc_formattable">Lancia %1s</string>
     <string name="action_launch_shortcut_toast">Questa scorciatoia non è al momento supportato</string>
-    <string name="call_phone_permission_toast">Devi concedere a bashamobile il permesso \"Telefono\" per usare questa scorciatoia. Per favore concedi l\'autorizzazione nelle impostazioni del dispositivo</string>
+    <string name="call_phone_permission_toast">Devi concedere a system tap il permesso \"Telefono\" per usare questa scorciatoia. Per favore concedi l\'autorizzazione nelle impostazioni del dispositivo</string>
     <string name="action_split_screen">Schermo diviso</string>
     <string name="action_split_screen_desc">Attiva o disattiva lo schermo diviso per l\'app corrente (non funziona sulla schermata iniziale)</string>
     <string name="action_reachability">Lancia schermo diviso con l\'app corrente</string>
@@ -108,7 +108,7 @@
     <string name="gate_keyboard_visibility">Tastiera aperta</string>
     <string name="gate_keyboard_visibility_desc">Blocca i gesti quando la tastiera è aperta e in uso. Nota che questo potrebbe non funzionare sempre se tu non stai scrivendo ma la tastiera è comunque aperta.</string>
     <string name="battery_and_optimisation">Batteria &amp; Ottimizzazioni</string>
-    <string name="battery_and_optimisation_desc">Info sul perché bashamobile consuma la batteria e perché potrebbe essere chiusa dal tuo dispositivo quando in esecuzione in background (e come risolvere)</string>
+    <string name="battery_and_optimisation_desc">Info sul perché system tap consuma la batteria e perché potrebbe essere chiusa dal tuo dispositivo quando in esecuzione in background (e come risolvere)</string>
     <string name="gate_orientation_landscape">Orientamento panoramico</string>
     <string name="gate_orientation_landscape_desc">Blocca i gesti quando il telefono è in orizzontale</string>
     <string name="gate_orientation_portrait">Orientamento verticale</string>
@@ -153,12 +153,12 @@
     <string name="setting_advanced_restart_service">Servizio di riavvio automatico</string>
     <string name="switch_triple">Abilita triplo tocco</string>
     <string name="tap_notification_channel_title">Notifica in background</string>
-    <string name="tap_notification_content">bashamobile è in esecuzione in background. Tocca per nascondere.</string>
-    <string name="tap_notification_title">Servizio di bashamobile</string>
+    <string name="tap_notification_content">system tap è in esecuzione in background. Tocca per nascondere.</string>
+    <string name="tap_notification_title">Servizio di system tap</string>
     <string name="tap_update_notification_channel_description">Notifiche mostrate quando l\'app giornalmente controlla gli aggiornamenti</string>
     <string name="tap_update_notification_channel_title">Notifiche di aggiornamenti</string>
-    <string name="tap_update_notification_content">Un aggiornamento per bashamobile è disponibile (%1s to %1s)</string>
-    <string name="tap_update_notification_title">Aggiornamento bashamobile disponibile</string>
+    <string name="tap_update_notification_content">Un aggiornamento per system tap è disponibile (%1s to %1s)</string>
+    <string name="tap_update_notification_title">Aggiornamento system tap disponibile</string>
     <string name="tasker_config_label_triple">Triplo tap sul retro</string>
     <string name="tasker_description_double">Verrà innescato quando il retro del telefono sarà toccato due volte</string>
     <string name="tasker_description_triple">Verrà innescato quando il retro del telefono sarà toccato tre volte</string>
@@ -171,25 +171,25 @@
     <string name="gate_music_desc_when">Esegui solo quando c\'è la musica in riproduzione</string>
     <string name="gate_music_desc_when_inverse">Esegui solo quando non c\'è la musica in riproduzione</string>
     <string name="gate_music_desc_inverse">Blocca la gesture quando non c\'è la musica in riproduzione</string>
-    <string name="tap_notification_channel_description">Notifica usata per mantenere bashamobile in esecuzione in background quando l\'opzione per usare il servizio separato è abilitata.</string>
+    <string name="tap_notification_channel_description">Notifica usata per mantenere system tap in esecuzione in background quando l\'opzione per usare il servizio separato è abilitata.</string>
     <string name="gate_keyboard_visibility_desc_when">Esegui solo quando la tastiera è aperta ed in uso. Nota che questo potrebbe non funzionare sempre se non stai scrivendo attivamente.</string>
-    <string name="setting_advanced_warning_desc">Queste impostazioni sono sperimentali e potrebbero non funzionare sul tuo dispositivo, o causare il malfunzionamento di bashamobile fino a non farla funzionare completamente.</string>
-    <string name="setting_advanced_restart_service_desc">Tenta di riavviare automaticamente il servizio di riconoscimento di bashamobile ogni ora.</string>
+    <string name="setting_advanced_warning_desc">Queste impostazioni sono sperimentali e potrebbero non funzionare sul tuo dispositivo, o causare il malfunzionamento di system tap fino a non farla funzionare completamente.</string>
+    <string name="setting_advanced_restart_service_desc">Tenta di riavviare automaticamente il servizio di riconoscimento di system tap ogni ora.</string>
     <string name="help_action_triple">Nota: quando il triplo tocco è abilitato, l\'azione del doppio tocco potrebbe essere più lenta a rispondere. Questo è dovuto al fatto che bisogna aspettare per controllare se ci sarà un terzo tocco prima di eseguire la azione corrispondente al secondo tocco.</string>
     <string name="setting_gesture_sensitivity_desc"><b>Sperimentale:</b> cambia la sensibilità della gesture regolando la quantità di forza filtrata come \"rumore\". Una sensibilità minore significa che la gesture sarà più difficile da rilevare su la maggior parte dei dispositivi, mentre una sensibilità maggiore è più soggetta a falsi rilevamenti.</string>
-    <string name="landing_title">Benvenuto su bashamobile</string>
+    <string name="landing_title">Benvenuto su system tap</string>
     <string name="landing_button_get_started">Iniziamo</string>
     <string name="landing_button_skip_setup">Salta configurazione</string>
 
-    <string name="setup_foss_info_title">bashamobile è gratuito e Open Source</string>
-    <string name="setup_foss_info_content"><![CDATA[bashamobile è, e sarà sempre gratuito e costruito con componenti open source. Il codice sorgente è disponibile per chiunque voglia vederlo e apportare modifiche sulla <a href=\"https://kieronquinn.co.uk/redirect/TapTap/github\">repository GitHub</a>. I download ufficiali dell\'app sono disponibili <b>solo</b> su <a href="https://kieronquinn.co.uk/redirect/TapTap/xda">XDA</a>, e sulla <a href="https://kieronquinn.co.uk/redirect/TapTap/github">repository GitHub</a>, e <a href="https://kieronquinn.co.uk/redirect/TapTap/apkmirror">APKMirror</a>. L\'app chiederà automaticamente di scaricare gli aggiornamenti da GitHub, ma il link potrebbe indirizzarti direttamente al download e potresti non vedere la pagina prima che il download cominci]]></string>
-    <string name="setup_foss_info_warning">Installa bashamobile solamente dalle fonti linkate qui sopra. <b>Se lo hai installato da qualche altra fonte, è altamente raccomandato la disinstallazione e la reinstallazione da uno dei link qui sopra.</b>. Premi per maggiori informazioni.</string>
+    <string name="setup_foss_info_title">system tap è gratuito e Open Source</string>
+    <string name="setup_foss_info_content"><![CDATA[system tap è, e sarà sempre gratuito e costruito con componenti open source. Il codice sorgente è disponibile per chiunque voglia vederlo e apportare modifiche sulla <a href=\"https://kieronquinn.co.uk/redirect/TapTap/github\">repository GitHub</a>. I download ufficiali dell\'app sono disponibili <b>solo</b> su <a href="https://kieronquinn.co.uk/redirect/TapTap/xda">XDA</a>, e sulla <a href="https://kieronquinn.co.uk/redirect/TapTap/github">repository GitHub</a>, e <a href="https://kieronquinn.co.uk/redirect/TapTap/apkmirror">APKMirror</a>. L\'app chiederà automaticamente di scaricare gli aggiornamenti da GitHub, ma il link potrebbe indirizzarti direttamente al download e potresti non vedere la pagina prima che il download cominci]]></string>
+    <string name="setup_foss_info_warning">Installa system tap solamente dalle fonti linkate qui sopra. <b>Se lo hai installato da qualche altra fonte, è altamente raccomandato la disinstallazione e la reinstallazione da uno dei link qui sopra.</b>. Premi per maggiori informazioni.</string>
     <string name="setup_foss_info_bs_title">Attenzione</string>
-    <string name="setup_foss_info_bs_content">bashamobile usa un servizio di Accessibilità. Questo permette di eseguire azioni sul tuo dispositivo automaticamente, e non dovrebbe essere concesso ad applicazioni di cui non ti fidi. Ecco perché bashamobile è a sorgente aperta - per fare in modo che chiunque voglia verificare il codice e controllare che non venga effettuato qualcosa che non dovrebbe fare.\n\nQuesta garanzia non è tuttavia valida se l\'APK è scaricato da una sorgente diversa dalla repository GitHub, XDA o APKMirror, è altamente raccomandata la disinstallazione e la reinstallazione dalle fonti ufficiali. </string>
+    <string name="setup_foss_info_bs_content">system tap usa un servizio di Accessibilità. Questo permette di eseguire azioni sul tuo dispositivo automaticamente, e non dovrebbe essere concesso ad applicazioni di cui non ti fidi. Ecco perché system tap è a sorgente aperta - per fare in modo che chiunque voglia verificare il codice e controllare che non venga effettuato qualcosa che non dovrebbe fare.\n\nQuesta garanzia non è tuttavia valida se l\'APK è scaricato da una sorgente diversa dalla repository GitHub, XDA o APKMirror, è altamente raccomandata la disinstallazione e la reinstallazione dalle fonti ufficiali. </string>
     <string name="settings_battery_oem_button">Apri impostazioni batteria dell\'OEM</string>
     <string name="menu_setup_wizard">Ricomincia la configurazione</string>
     <string name="modal_no_gyroscope_title">Dispositivo non compatibile</string>
-    <string name="modal_no_gyroscope_content">Il tuo dispositivo non ha un sensore (giroscopio) che serve per il corretto funzionamento di quest\'app. bashamobile non funzionerà mai su questo dispositivo.</string>
+    <string name="modal_no_gyroscope_content">Il tuo dispositivo non ha un sensore (giroscopio) che serve per il corretto funzionamento di quest\'app. system tap non funzionerà mai su questo dispositivo.</string>
     <string name="action_alt_tab">Torna all\'ultima app</string>
     <string name="action_alt_tab_desc">Ritorna all\'ultima app aperta simulando la doppia pressione del bottone dei recenti (solo dispositivi compatibili).</string>
     <string name="gate_lock_screen_showing">Schermata di sblocco visibile</string>

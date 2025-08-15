@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">bashamobile</string>
+    <string name="app_name">system tap</string>
     <string name="accessibility_service_description">TapTap 無障礙設定\n\n<b>重要提示: 應用不會收集您的個資，此服務僅用於辨識手勢活動並提供與裝置的互動支援</b></string>
     <string name="setting_bottom_nav_gesture">手勢</string>
     <string name="setting_gates">閘閥</string>
@@ -90,7 +90,7 @@
     <string name="action_launch_shortcut_desc">啓動快捷方式，例如谷歌地圖導航</string>
     <string name="action_launch_shortcut_desc_formattable">啓動 %1s (shortcut into the app)</string>
     <string name="action_launch_shortcut_toast">不支援此快捷方式</string>
-    <string name="call_phone_permission_toast">您需要授予 bashamobile the \"電話\" 權限去使用快捷方式. 請在設定中授予\'的 權限設定</string>
+    <string name="call_phone_permission_toast">您需要授予 system tap the \"電話\" 權限去使用快捷方式. 請在設定中授予\'的 權限設定</string>
     <string name="action_split_screen">分割畫面</string>
     <string name="action_split_screen_desc">使用當前應用啟動或停止分屏模式（在主屏幕上不起作用）</string>
     <string name="action_reachability">觸發可達性</string>

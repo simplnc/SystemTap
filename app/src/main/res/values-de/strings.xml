@@ -1,29 +1,29 @@
 <resources>
 
     <!-- Launcher app name -->
-    <string name="app_name">bashamobile</string>
+    <string name="app_name">system tap</string>
 
     <!-- Generic -->
     <string name="search">Suchen</string>
     <string name="close">Schließen</string>
 
     <!-- Setup > Landing -->
-    <string name="landing_title">Willkommen zu bashamobile</string>
+    <string name="landing_title">Willkommen zu system tap</string>
     <string name="landing_button_get_started">Los geht\'s</string>
     <string name="landing_button_skip_setup">Einrichtung überspringen</string>
 
     <!-- Setup > Info -->
-    <string name="setup_foss_info_title">bashamobile ist kostenlos und Open-Source</string>
-    <string name="setup_foss_info_content"><![CDATA[bashamobile ist und bleibt kostenlos und baut auf Open-Source-Komponenten auf. Der Quellcode ist für jeden einsehbar und jeder darf das <a href=\"https://kieronquinn.co.uk/redirect/TapTap/github\">GitHub Repository</a> modifizieren. Offizielle kostenlose Downloads der App sind <b>nur</b> auf <a href="https://kieronquinn.co.uk/redirect/TapTap/xda">XDA</a>, dem <a href="https://kieronquinn.co.uk/redirect/TapTap/github">GitHub Repository</a> und <a href="https://kieronquinn.co.uk/redirect/TapTap/apkmirror">APKMirror</a> verfügbar. Die offizielle App bietet immer an, Updates von GitHub herunterzuladen, wenn Zugang zum Internet erlaubt wurde.]]></string>
-    <string name="setup_foss_info_warning">Installiere bashamobile nur über die oben verlinkten offiziellen Quellen. <b>Wenn du die App von einer anderen Quelle heruntergeladen hast, ist es sehr empfehlenswert, sie zu deinstallieren und von einem der oben genannten Links neu zu installieren.</b> Hier klicken für mehr Infos.</string>
+    <string name="setup_foss_info_title">system tap ist kostenlos und Open-Source</string>
+    <string name="setup_foss_info_content"><![CDATA[system tap ist und bleibt kostenlos und baut auf Open-Source-Komponenten auf. Der Quellcode ist für jeden einsehbar und jeder darf das <a href=\"https://kieronquinn.co.uk/redirect/TapTap/github\">GitHub Repository</a> modifizieren. Offizielle kostenlose Downloads der App sind <b>nur</b> auf <a href="https://kieronquinn.co.uk/redirect/TapTap/xda">XDA</a>, dem <a href="https://kieronquinn.co.uk/redirect/TapTap/github">GitHub Repository</a> und <a href="https://kieronquinn.co.uk/redirect/TapTap/apkmirror">APKMirror</a> verfügbar. Die offizielle App bietet immer an, Updates von GitHub herunterzuladen, wenn Zugang zum Internet erlaubt wurde.]]></string>
+    <string name="setup_foss_info_warning">Installiere system tap nur über die oben verlinkten offiziellen Quellen. <b>Wenn du die App von einer anderen Quelle heruntergeladen hast, ist es sehr empfehlenswert, sie zu deinstallieren und von einem der oben genannten Links neu zu installieren.</b> Hier klicken für mehr Infos.</string>
     <string name="setup_foss_info_bs_title">Warnung</string>
-    <string name="setup_foss_info_bs_content">bashamobile verwendet einen Accessibility Service. Dieser ermöglicht es der App, automatisch Aktionen auf deinem Gerät auszuführen, und sollte nicht an Apps vergeben werden, denen du nicht vertraust. Das ist der Grund, warum bashamobile Open Source ist - damit du und jeder andere, der das möchte, den Code ansehen und überprüfen kann, dass die App nichts tut, was sie nicht tun sollte.\n\nDiese Garantie gilt jedoch nicht, wenn du die APK von einer anderen Quelle als den offiziellen Orten heruntergeladen hast. Wenn du die APK von einer anderen Quelle als dem GitHub-Repository, XDA oder APKMirror heruntergeladen hast, wird dringend empfohlen, dass du sie sofort deinstallierst und von einem der offiziellen Orte neu installierst.</string>
-    <string name="setup_foss_info_content_lower">Wenn dir die bashamobile App gefällt und du spenden möchtest, findest du den entsprechenden Link unten auf der \"Mehr\"-Seite nach der Einrichtung. Unabhängig davon, ob du spendest oder nicht, ist dein Teilen, deine Unterstützung und die Nutzung von bashamobile sehr geschätzt, vielen Dank!</string>
+    <string name="setup_foss_info_bs_content">system tap verwendet einen Accessibility Service. Dieser ermöglicht es der App, automatisch Aktionen auf deinem Gerät auszuführen, und sollte nicht an Apps vergeben werden, denen du nicht vertraust. Das ist der Grund, warum system tap Open Source ist - damit du und jeder andere, der das möchte, den Code ansehen und überprüfen kann, dass die App nichts tut, was sie nicht tun sollte.\n\nDiese Garantie gilt jedoch nicht, wenn du die APK von einer anderen Quelle als den offiziellen Orten heruntergeladen hast. Wenn du die APK von einer anderen Quelle als dem GitHub-Repository, XDA oder APKMirror heruntergeladen hast, wird dringend empfohlen, dass du sie sofort deinstallierst und von einem der offiziellen Orte neu installierst.</string>
+    <string name="setup_foss_info_content_lower">Wenn dir die system tap App gefällt und du spenden möchtest, findest du den entsprechenden Link unten auf der \"Mehr\"-Seite nach der Einrichtung. Unabhängig davon, ob du spendest oder nicht, ist dein Teilen, deine Unterstützung und die Nutzung von system tap sehr geschätzt, vielen Dank!</string>
     <string name="setup_info_next">Weiter</string>
 
     <!-- Setup > Notifications -->
     <string name="setup_notifications_title">Benachrichtigungen</string>
-    <string name="setup_notifications_content">bashamobile verwendet Benachrichtigungen, um dich über Handlungs- und Öffnungsanforderungen sowie mögliche Fehler und andere wichtige App-Funktionen zu informieren.\n\nBitte aktiviere die Benachrichtigungen, damit die App ordnungsgemäß funktioniert. Du kannst die Hintergrunddienst-Benachrichtigung <b>nur</b> zu einem späteren Zeitpunkt deaktivieren.</string>
+    <string name="setup_notifications_content">system tap verwendet Benachrichtigungen, um dich über Handlungs- und Öffnungsanforderungen sowie mögliche Fehler und andere wichtige App-Funktionen zu informieren.\n\nBitte aktiviere die Benachrichtigungen, damit die App ordnungsgemäß funktioniert. Du kannst die Hintergrunddienst-Benachrichtigung <b>nur</b> zu einem späteren Zeitpunkt deaktivieren.</string>
     <string name="setup_notifications_request">Berechtigungen erteilen</string>
 
     <!-- Setup > Gesture -->
@@ -40,9 +40,9 @@
 
     <!-- Internet Permission Prompt -->
     <string name="dialog_internet_permission_text">Internetzugriff erlauben?</string>
-    <string name="dialog_internet_permission_desc">bashamobile wird nur ins Internet gehen, um Gerätespezifikationen zu laden oder regelmäßig im Hintergrund nach Updates zu suchen.</string>
+    <string name="dialog_internet_permission_desc">system tap wird nur ins Internet gehen, um Gerätespezifikationen zu laden oder regelmäßig im Hintergrund nach Updates zu suchen.</string>
     <string name="dialog_internet_permission_allow_always">Immer erlauben</string>
-    <string name="dialog_internet_permission_allow_open">Erlauben, solange bashamobile geöffnet ist</string>
+    <string name="dialog_internet_permission_allow_open">Erlauben, solange system tap geöffnet ist</string>
     <string name="dialog_internet_permission_deny">Ablehnen</string>
 
     <!-- Upgrade Modal -->
@@ -50,23 +50,23 @@
 
     <!-- No Gyroscope Modal -->
     <string name="modal_no_gyroscope_title">Gerät ist nicht kompatibel</string>
-    <string name="modal_no_gyroscope_content">Deinem Gerät fehlt der erforderliche Sensor (Gyroskop), um diese App zu nutzen. bashamobile wird auf diesem Gerät leider nicht funktionieren.</string>
+    <string name="modal_no_gyroscope_content">Deinem Gerät fehlt der erforderliche Sensor (Gyroskop), um diese App zu nutzen. system tap wird auf diesem Gerät leider nicht funktionieren.</string>
 
     <!-- Disable Columbus Modal -->
     <string name="modal_disable_columbus_title">Quick Tap deaktivieren oder neu konfigurieren</string>
-    <string name="modal_disable_columbus_content"><![CDATA[Die Quick Tap Systemfunktion deines Geräts ist aktiviert, aber nicht richtig eingerichtet. Bitte deaktiviere oder konfiguriere sie neu, sonst wird bashamobile nicht richtig funktionieren.<br>Quick Tap can in den Systemeinstellungen unter \"Einstellungen\" > \"Gesten\" gefunden werden.<br><br><b>Wenn du versuchst den nativen Modus zu aktivieren, stelle sicher, dass du die Aktion auf \"App starten\" > \"bashamobile\" gesetzt hast und dass du die Berechtigung READ_LOGS erteilt hast. <a href="https://kieronquinn.co.uk/redirect/TapTap/nativesetup">Tippe hier für weitere Informationen</a>.</b>]]></string>
-    <string name="modal_disable_columbus_card">Möglicherweise musst du nach dem Deaktivieren der Quick Tap Systemfunktion neu starten, damit einige Funktionen von bashamobile funktionieren.</string>
+    <string name="modal_disable_columbus_content"><![CDATA[Die Quick Tap Systemfunktion deines Geräts ist aktiviert, aber nicht richtig eingerichtet. Bitte deaktiviere oder konfiguriere sie neu, sonst wird system tap nicht richtig funktionieren.<br>Quick Tap can in den Systemeinstellungen unter \"Einstellungen\" > \"Gesten\" gefunden werden.<br><br><b>Wenn du versuchst den nativen Modus zu aktivieren, stelle sicher, dass du die Aktion auf \"App starten\" > \"system tap\" gesetzt hast und dass du die Berechtigung READ_LOGS erteilt hast. <a href="https://kieronquinn.co.uk/redirect/TapTap/nativesetup">Tippe hier für weitere Informationen</a>.</b>]]></string>
+    <string name="modal_disable_columbus_card">Möglicherweise musst du nach dem Deaktivieren der Quick Tap Systemfunktion neu starten, damit einige Funktionen von system tap funktionieren.</string>
     <string name="modal_disable_columbus_button">Einstellungen öffnen</string>
 
     <!-- Settings UI -->
-    <string name="settings_main_enable_tap_tap">bashamobile aktivieren</string>
+    <string name="settings_main_enable_tap_tap">system tap aktivieren</string>
     <string name="setting_bottom_nav_settings">Einstellungen</string>
     <string name="setting_bottom_nav_gesture">Gesten</string>
     <string name="setting_bottom_nav_more">Mehr</string>
     <string name="menu_setup_wizard">Setup neustarten</string>
 
     <!-- Settings > Gesture -->
-    <string name="settings_main_battery"><b>Deaktiviere die Batterie Optimierung</b>\nUm zu vermeiden, dass bashamobile im Hintergrund geschlossen wird, kannst du hier die Batterieoptimierung deaktivieren.</string>
+    <string name="settings_main_battery"><b>Deaktiviere die Batterie Optimierung</b>\nUm zu vermeiden, dass system tap im Hintergrund geschlossen wird, kannst du hier die Batterieoptimierung deaktivieren.</string>
     <string name="setting_actions_double">Double Tap Aktionen</string>
     <string name="setting_actions_triple">Triple Tap Aktionen</string>
     <string name="settings_actions_desc_double">Wähle Aktionen, die ausgeführt werden sollen, wenn du zweimal auf die Rückseite deines Geräts tippst.</string>
@@ -149,7 +149,7 @@
     <string name="bs_help_gate">Ausnahmen sind Situationen, die das Ausführen einer Aktion blockieren können. Damit eine Aktion ausgeführt wird, darf keine Ausnahme zutreffen.\nWenn eine Ausnahme zutrifft, z.B. wenn der Bildschirm aus ist und \"Bildschirm aus\" aktiviert ist, wird keine Aktion ausgeführt. Du kannst so viele Ausnahmen, wie du willst, hinzufügen und sie über die Schalter einzeln aktivieren / deaktivieren (statt sie jedes Mal zu löschen bzw. neu hinzuzufügen), um die Konfiguration schneller und einfacher zu machen.</string>
     <string name="bs_help_gate_title">Was sind Ausnahmen?</string>
     <string name="settings_gates_loading_gates">Lade Ausnahmen…</string>
-    <string name="settings_gates_header_native_mode"><b>Nativer Modus aktiviert</b>\nWenn der native Modus aktiviert ist, wird bashamobile <b>nicht</b> funktionieren, solange der Bildschirm aus ist, egal welche Ausnahmen du ausgewählt hast.</string>
+    <string name="settings_gates_header_native_mode"><b>Nativer Modus aktiviert</b>\nWenn der native Modus aktiviert ist, wird system tap <b>nicht</b> funktionieren, solange der Bildschirm aus ist, egal welche Ausnahmen du ausgewählt hast.</string>
 
     <!-- Settings > Gesture > Gates > Add -->
     <string name="add_gate_category_device">Gerät</string>
@@ -178,15 +178,15 @@
     <string name="setting_gesture_sensitivity_desc">Passe die Empfindlichkeit an, indem du einstellst, wie viel Bewegung als \"Rauschen\" herausgefiltert wird. Eine geringe Empfindlichkeit sorgt dafür, dass es schwerer wird eine Geste auszuführen, während eine hohe Empfindlichkeit anfälliger für Fehler ist.</string>
     <string name="setting_gesture_sensitivity_desc_disabled">Du hast eine eigene Sensitivität in den fortgeschrittenen Einstellungen eingestellt. Setze sie zurück, um diese Option zu nutzen.</string>
     <string name="setting_gesture_sensitivity_chre">Geringe Empfindlichkeit</string>
-    <string name="setting_gesture_sensitivity_chre_desc">Benutze eine geringe Empfindlichkeit für bashamobile Gesten, um das Ausführen zu erschweren.</string>
+    <string name="setting_gesture_sensitivity_chre_desc">Benutze eine geringe Empfindlichkeit für system tap Gesten, um das Ausführen zu erschweren.</string>
 
     <!-- Settings > Settings > Low Power Mode -->
     <string name="settings_low_power_mode_enable">Energiesparmodus aktivieren</string>
-    <string name="setting_low_power_mode_content">Der Energiesparmodus nutzt den Kontext-Hub des Geräts, der die Ausführung von \"Nano-Apps\" auf der stromsparenden CPU ermöglicht. Damit das funktioniert, muss die für dein Gerät kompilierte Columbus Nano-App installiert sein, was vom OEM gemacht werden muss. bashamobile kann diese App dann genauso benutzen wie die Quick Tap Funktion, um eine Geste wesentlich energieeffizienter zu erkennen.\n\n<b>Shizuku (oder alternativ Sui) wird ebenfalls für diese Funktion benötigt, da die Systemberechtigungen nicht für normale Nutzerapps verfügbar sind.\nUnter Android 13 oder höher wird Sui aufgrund von Änderungen der Plattform, die außerhalb der Kontrolle von bashamobile liegen, gebraucht.</b>\n\n<b>Hinweis: Nach der ersten Aktivierung dieser Option musst du dein Gerät möglicherweise neu starten, damit die Änderung wirksam wird.</b></string>
+    <string name="setting_low_power_mode_content">Der Energiesparmodus nutzt den Kontext-Hub des Geräts, der die Ausführung von \"Nano-Apps\" auf der stromsparenden CPU ermöglicht. Damit das funktioniert, muss die für dein Gerät kompilierte Columbus Nano-App installiert sein, was vom OEM gemacht werden muss. system tap kann diese App dann genauso benutzen wie die Quick Tap Funktion, um eine Geste wesentlich energieeffizienter zu erkennen.\n\n<b>Shizuku (oder alternativ Sui) wird ebenfalls für diese Funktion benötigt, da die Systemberechtigungen nicht für normale Nutzerapps verfügbar sind.\nUnter Android 13 oder höher wird Sui aufgrund von Änderungen der Plattform, die außerhalb der Kontrolle von system tap liegen, gebraucht.</b>\n\n<b>Hinweis: Nach der ersten Aktivierung dieser Option musst du dein Gerät möglicherweise neu starten, damit die Änderung wirksam wird.</b></string>
     <string name="settings_low_power_mode_error_shizuku">Shizuku oder Siu sind erforderlich, damit diese Option funktioniert. Shizuku wird auch ohne Root Zugriff funktionieren, aber wenn dein Gerät gerooted ist, wird die App automatisch beim Starten ausgeführt. Wenn du das <b>Sui</b> Magisk-Modul verwendest, tippe unten, um die Berechtigung zu erteilen.</string>
     <string name="settings_low_power_mode_error_button_shizuku">Was sind Shizuku und Sui?</string>
     <string name="settings_low_power_mode_error_button_sui"><b>Sui</b> Berechtigung erteilen</string>
-    <string name="settings_low_power_mode_error_not_compatible">Entschuldigung, diese Option ist nicht mit deinem Gerät kompatibel.\n<b>Hinweis:</b> Wenn du Android 13 oder höher hast, <b>musst</b> dein Gerät gerootet sein und du musst Sui benutzen. Shizuku wird aufgrund von Änderungen der Plattform, die außerhalb der Kontrolle von bashamobile liegen, nicht mehr unterstützt.</string>
+    <string name="settings_low_power_mode_error_not_compatible">Entschuldigung, diese Option ist nicht mit deinem Gerät kompatibel.\n<b>Hinweis:</b> Wenn du Android 13 oder höher hast, <b>musst</b> dein Gerät gerootet sein und du musst Sui benutzen. Shizuku wird aufgrund von Änderungen der Plattform, die außerhalb der Kontrolle von system tap liegen, nicht mehr unterstützt.</string>
     <string name="settings_low_power_mode_error_toast">Shizuku läuft nicht, starte es, um den Energiesparmodus zu aktivieren.</string>
 
     <!-- Settings > Settings > Native Mode -->
@@ -194,9 +194,9 @@
     <string name="settings_native_mode_desc">Der native Modus nutzt die Quick Tap Funktion des Systems, um weniger Akku zu benutzen, über Shizuku oder Sui, allerdings mit einigen Einschränkungen.</string>
     <string name="settings_native_mode_desc_unavailable">Der native Modus ist nicht verfügbar, wenn der Energiesparmodus aktiviert ist.</string>
     <string name="settings_native_mode_enable">Nativen Modus aktivieren</string>
-    <string name="settings_native_mode_launch_toast">Aktiviere Quick Tap unter \"System\" > \"Gesten\" &amp; wähle bashamobile als Aktion zum App öffnen.</string>
+    <string name="settings_native_mode_launch_toast">Aktiviere Quick Tap unter \"System\" > \"Gesten\" &amp; wähle system tap als Aktion zum App öffnen.</string>
     <string name="settings_native_mode_launch_toast_disable">Deaktiviere Quick Tap unter \"System\" > \"Gesten\".</string>
-    <string name="setting_native_mode_content">Der native Modus nutzt die Quick Tap Systemfunktion der Google Pixel Smartphones. Der Vorteil ist, dass die App dadurch einen fast so geringen Stromverbrauch hat, wie der Energiesparmodus. Allerdings gibt es zwei Nachteile:\n• <b>bashamobile funktioniert nicht, wenn der Bildschirm ausgeschalten ist.</b>\n• <b>Triple Tap funktioniert teilweise nicht so zuverlässig.</b>\n\nUm den nativen Modus zu aktivieren, musst du Quick Tap in den Systemeinstellungen aktivieren und bashamobile als Aktion zum App öffnen auswählen.</string>
+    <string name="setting_native_mode_content">Der native Modus nutzt die Quick Tap Systemfunktion der Google Pixel Smartphones. Der Vorteil ist, dass die App dadurch einen fast so geringen Stromverbrauch hat, wie der Energiesparmodus. Allerdings gibt es zwei Nachteile:\n• <b>system tap funktioniert nicht, wenn der Bildschirm ausgeschalten ist.</b>\n• <b>Triple Tap funktioniert teilweise nicht so zuverlässig.</b>\n\nUm den nativen Modus zu aktivieren, musst du Quick Tap in den Systemeinstellungen aktivieren und system tap als Aktion zum App öffnen auswählen.</string>
 
     <!-- Settings > Settings > Model Picker -->
     <string name="settings_model_picker_loading">Einen Moment…</string>
@@ -236,15 +236,15 @@
     <!-- Settings > Settings > Advanced -->
     <string name="setting_advanced">Fortgeschritten</string>
     <string name="setting_advanced_desc">Fortgeschrittene Einstellungen, um die Leistung und mehr anzupassen.</string>
-    <string name="setting_advanced_warning_desc">Diese Einstellungen sind experimentell und könnten möglicherweise nicht richtig auf deinem Gerät funktionieren oder können dafür sorgen, dass bashamobile nicht mehr funktioniert.</string>
+    <string name="setting_advanced_warning_desc">Diese Einstellungen sind experimentell und könnten möglicherweise nicht richtig auf deinem Gerät funktionieren oder können dafür sorgen, dass system tap nicht mehr funktioniert.</string>
     <string name="setting_advanced_restart_service">Auto-Neustart-Dienst</string>
-    <string name="setting_advanced_restart_service_desc">Versuche den bashamobile Service jede Stunde automatisch neu zu starten.</string>
+    <string name="setting_advanced_restart_service_desc">Versuche den system tap Service jede Stunde automatisch neu zu starten.</string>
     <string name="setting_advanced_legacy_wake">Alte Wake-Device Methode</string>
     <string name="setting_advanced_legacy_wake_desc">Verwendet die alte Methode, das Gerät mit der \"Gerät aufwecken\" Option anzuschalten. Dies funktioniert möglicherweise nicht bei allen Geräten, kann aber in einigen wenigen Fällen zuverlässiger sein.</string>
     <string name="setting_advanced_tensor_low_power">Tensor Energiesparmodus</string>
     <string name="setting_advanced_tensor_low_power_desc">Führt (falls verfügbar) das Tensor-Modell auf der stromsparenden CPU aus. Deaktiviere diese Option, wenn es zu Leistungsproblemen kommt oder die Gesten gar nicht mehr funktionieren.</string>
     <string name="settings_advanced_monet_color_picker">Hintergrundfarbe</string>
-    <string name="settings_advanced_monet_color_picker_desc">Wähle eine Farbe aus deinem Hintergrund, um sie in der bashamobile Benutzeroberfläche zu nutzen.</string>
+    <string name="settings_advanced_monet_color_picker_desc">Wähle eine Farbe aus deinem Hintergrund, um sie in der system tap Benutzeroberfläche zu nutzen.</string>
     <string name="setting_advanced_custom_sensitivity">Individuelle Empfindlichkeit</string>
     <string name="setting_advanced_custom_sensitivity_desc">Wähle eine individuelle Empfindlichkeit für die Gestenerkennung.\nWichtig: Benutze diese Option nur, wenn <b>keine</b> der eingebauten Werte bei dir funktioniert.</string>
     <string name="bs_advanced_custom_sensitivity">Individuelle Empfindlichkeit</string>
@@ -265,7 +265,7 @@
     <string name="setting_internet">Internetzugang erlauben</string>
     <string name="setting_internet_desc">Dies wird nur zum Abrufen von Gerätespezifikationen und zur Suche nach Updates verwendet.</string>
     <string name="setting_crash_reporting">Absturzmeldungen</string>
-    <string name="setting_crash_reporting_desc">Zeige eine Benachrichtigung, falls bashamobile abstürzt und erlaube das Speichern eines Protokolls, um es auf Github oder XDA zu melden. Diese Option sendet die Absturzdaten <b>nicht</b> automatisch an einen Server.</string>
+    <string name="setting_crash_reporting_desc">Zeige eine Benachrichtigung, falls system tap abstürzt und erlaube das Speichern eines Protokolls, um es auf Github oder XDA zu melden. Diese Option sendet die Absturzdaten <b>nicht</b> automatisch an einen Server.</string>
     <string name="battery_and_optimisation">Akku &amp; Optimierung</string>
     <string name="battery_and_optimisation_desc">Informationen zum Stromverbrauch und warum dein Gerät die App vielleicht beendet.</string>
     <string name="xda_thread">XDA-Thread</string>
@@ -276,12 +276,12 @@
     <string name="about_version">Version %1s\nErstellt von Kieron Quinn</string>
 
     <!-- Settings > More > Battery Optimisation -->
-    <string name="settings_battery_header"><![CDATA[bashamobile nutzt Sensordaten im Hintergrund, was die CPU und den Akku belasten kann. Auf Geräten mit einem speziellen ML-Beschleuniger (z.B. Qualcomm Hexagon Tensor Accelerator) kann die Auswirkung auf den Akku geringer sein.<br><a href="https://kieronquinn.co.uk/redirect/TapTap/battery">Tippe hier für einige Tipps zum Akkusparen.</a>]]></string>
-    <string name="settings_battery_info"><![CDATA[Damit bashamobile richtig funktioniert, muss die Android Akku-Optimierung für die App deaktiviert sein. Dadurch wird vermieden, dass die App im Hintergrund geschlossen wird.<br><b>Hinweis:</b> Auf machen Geräte, musst du möglicherweise auch zusätzliche Einstellungen deaktivieren, um zu verhindern, dass die App beendet wird. <a href="https://dontkillmyapp.com/">Tippe hier für mehr Infos.</a>]]></string>
+    <string name="settings_battery_header"><![CDATA[system tap nutzt Sensordaten im Hintergrund, was die CPU und den Akku belasten kann. Auf Geräten mit einem speziellen ML-Beschleuniger (z.B. Qualcomm Hexagon Tensor Accelerator) kann die Auswirkung auf den Akku geringer sein.<br><a href="https://kieronquinn.co.uk/redirect/TapTap/battery">Tippe hier für einige Tipps zum Akkusparen.</a>]]></string>
+    <string name="settings_battery_info"><![CDATA[Damit system tap richtig funktioniert, muss die Android Akku-Optimierung für die App deaktiviert sein. Dadurch wird vermieden, dass die App im Hintergrund geschlossen wird.<br><b>Hinweis:</b> Auf machen Geräte, musst du möglicherweise auch zusätzliche Einstellungen deaktivieren, um zu verhindern, dass die App beendet wird. <a href="https://dontkillmyapp.com/">Tippe hier für mehr Infos.</a>]]></string>
     <string name="settings_battery_disable_optimisation">Akku-Optimierung deaktivieren</string>
-    <string name="settings_battery_disable_optimisation_desc_enabled">Android Akku-Optimierung für bashamobile ist aktiviert</string>
-    <string name="settings_battery_disable_optimisation_desc_disabled">Android Akku-Optimierung für bashamobile ist deaktiviert</string>
-    <string name="settings_battery_oem_info">Dein Gerät scheint einige OEM-spezifische Akku-Optimierungen zu haben. bashamobile kann sie nicht automatisch deaktivieren. Bitte überprüfe deine Einstellungen, um sicherzustellen, dass sie deaktiviert sind.</string>
+    <string name="settings_battery_disable_optimisation_desc_enabled">Android Akku-Optimierung für system tap ist aktiviert</string>
+    <string name="settings_battery_disable_optimisation_desc_disabled">Android Akku-Optimierung für system tap ist deaktiviert</string>
+    <string name="settings_battery_oem_info">Dein Gerät scheint einige OEM-spezifische Akku-Optimierungen zu haben. system tap kann sie nicht automatisch deaktivieren. Bitte überprüfe deine Einstellungen, um sicherzustellen, dass sie deaktiviert sind.</string>
     <string name="settings_battery_oem_button">Öffne die OEM Akku-Einstellungen</string>
 
     <!-- Settings > More > Backup & Restore > Backup -->
@@ -420,7 +420,7 @@
     <string name="action_accessibility_button_chooser">Auswahl des Buttons für Barrierefreiheit</string>
     <string name="action_accessibility_button_chooser_desc">Öffnet das Menü zur Auswahl des Buttons für Barrierefreiheit.</string>
     <string name="action_accessibility_shortcut">Shortcut für Barrierefreiheit auslösen</string>
-    <string name="action_accessibility_shortcut_desc">Löst den Shortcut für Barrierefreiheit aus. Stelle sicher, dass bashamobile nicht für die Verwendung des Shortcuts eingestellt ist, bevor du diese Aktion verwendest!</string>
+    <string name="action_accessibility_shortcut_desc">Löst den Shortcut für Barrierefreiheit aus. Stelle sicher, dass system tap nicht für die Verwendung des Shortcuts eingestellt ist, bevor du diese Aktion verwendest!</string>
     <string name="action_app_drawer">App Drawer</string>
     <string name="action_app_drawer_desc">Öffnet den App Drawer eines <b>unterstützten Launchers</b>. Dies funktioniert nur für Launcher, die auf Android 11 basieren.</string>
     <string name="action_accept_call">Anruf annehmen</string>
@@ -528,10 +528,10 @@
     <string name="gate_unsupported_reason_foldable">Erfordert ein kompatibles faltbares Gerät.</string>
 
     <!-- Notification channels & content -->
-    <string name="tap_notification_title">bashamobile Service</string>
-    <string name="tap_notification_content">bashamobile läuft im Hintergrund. Zum Ausblenden antippen.</string>
+    <string name="tap_notification_title">system tap Service</string>
+    <string name="tap_notification_content">system tap läuft im Hintergrund. Zum Ausblenden antippen.</string>
     <string name="tap_notification_channel_title">Hintergrundbenachrichtigung</string>
-    <string name="tap_notification_channel_description">Benachrichtigung, um bashamobile im Hintergrund auszuführen, wenn die Option zur Verwendung eines separaten Dienstes aktiviert ist.</string>
+    <string name="tap_notification_channel_description">Benachrichtigung, um system tap im Hintergrund auszuführen, wenn die Option zur Verwendung eines separaten Dienstes aktiviert ist.</string>
     <string name="notification_channel_actions_title">Aktionen</string>
     <string name="notification_channel_actions_content">Benachrichtigungen über Aktionen, einschließlich Fehlern bei deren Ausführung.</string>
     <string name="notification_action_flashlight_error_title">Fehler beim Schalten der Taschenlampe</string>
@@ -549,25 +549,25 @@
     <string name="notification_channel_service_content">Benachrichtigungen über den Dienst, einschließlich Ladevorgänge und Fehler.</string>
     <string name="notification_service_loading_title">Service startet…</string>
     <string name="notification_service_loading_title_restart">Service startet erneut…</string>
-    <string name="notification_service_loading_content">bashamobile Service wird geladen</string>
+    <string name="notification_service_loading_content">system tap Service wird geladen</string>
     <string name="notification_service_error_title">Fehler beim Starten des Service</string>
     <string name="notification_service_running_error_title">Fehler beim Verbinden mit dem Shizuku Service</string>
     <string name="notification_service_error_content_shizuku_not_running">Die Verbindung zu Shizuku kann nicht hergestellt werden. Bitte stelle sicher, dass Shizuku läuft und versuche es dann erneut.</string>
-    <string name="notification_service_error_content_shizuku_permission_denied">Beim Verbinden mit Shizuku wurde die Berechtigung verweigert. Bitte erteile bashamobile die Berechtigung in Shizuku und versuche es dann erneut.</string>
+    <string name="notification_service_error_content_shizuku_permission_denied">Beim Verbinden mit Shizuku wurde die Berechtigung verweigert. Bitte erteile system tap die Berechtigung in Shizuku und versuche es dann erneut.</string>
     <string name="notification_service_error_action_retry">Wiederholen</string>
     <string name="notification_service_error_root_title">Fehler beim Verbinden mit dem Service</string>
-    <string name="notification_service_error_root_content">Vergewissere dich, dass du bashamobile Root-Rechte zugeteilt hast.</string>
+    <string name="notification_service_error_root_content">Vergewissere dich, dass du system tap Root-Rechte zugeteilt hast.</string>
     <string name="notification_channel_crash_title">Abstürze</string>
-    <string name="notification_channel_crash_content">Benachrichtigungen, wenn bashamobile abstürzt, um Fehler zu vermeiden.</string>
-    <string name="notification_crash_title">bashamobile ist abgestürzt!</string>
-    <string name="notification_crash_content">Tippe hier, um die Absturzdaten anzuzeigen und ein Protokoll für GitHub oder XDA zu exportieren. Du kannst diese Absturzbenachrichtigungen in den Einstellungen von bashamobile zu deaktivieren.</string>
+    <string name="notification_channel_crash_content">Benachrichtigungen, wenn system tap abstürzt, um Fehler zu vermeiden.</string>
+    <string name="notification_crash_title">system tap ist abgestürzt!</string>
+    <string name="notification_crash_content">Tippe hier, um die Absturzdaten anzuzeigen und ein Protokoll für GitHub oder XDA zu exportieren. Du kannst diese Absturzbenachrichtigungen in den Einstellungen von system tap zu deaktivieren.</string>
     <string name="notification_channel_native_setup_title">Einrichten des nativen Modus</string>
     <string name="notification_channel_native_setup_content">Benachrichtigungen mit Anweisungen während der Einrichtung des nativen Modus.</string>
     <string name="notification_native_setup_title">Einrichtung des nativen Modus wird abgeschlossen</string>
-    <string name="notification_native_setup_content">Lege die Aktion auf \"App öffnen\" auf \"bashamobile\", um die Einrichtung des nativen Modus abzuschließen.</string>
+    <string name="notification_native_setup_content">Lege die Aktion auf \"App öffnen\" auf \"system tap\", um die Einrichtung des nativen Modus abzuschließen.</string>
     <string name="tap_update_notification_channel_title">Update-Benachrichtigungen</string>
     <string name="tap_update_notification_channel_description">Benachrichtigungen, die angezeigt werden, wenn die App einmal am Tag nach Updates sucht.</string>
-    <string name="tap_update_notification_title">Update für bashamobile verfügbar</string>
+    <string name="tap_update_notification_title">Update für system tap verfügbar</string>
     <string name="tap_update_notification_content">Ein Update von Version %1s zu %1s ist verfügbar.</string>
 
     <!-- Shared Pickers, for Gates & Actions -->
@@ -582,20 +582,20 @@
     <string name="settings_shared_shizuku_permission_flow_error_content_action">Aktion</string>
     <string name="settings_shared_shizuku_permission_flow_error_content_gate">Ausnahme</string>
     <string name="settings_shared_shizuku_permission_flow_error_card_shizuku_title">Shizuku</string>
-    <string name="settings_shared_shizuku_permission_flow_error_card_shizuku_content">Shizuku ist eine Nicht-Root-App, die es Apps wie bashamobile ermöglicht, Code mit speziellen Berechtigungen auszuführen. Dies geschieht durch die Ausführung eines Befehls auf der ADB (Android Debug Bridge) Shell, einmal pro Neustart. Auf Geräten mit Android 11+ kann dies ohne einen Computer erfolgen, aber auf älteren Versionen musst du dich einmal pro Neustart mit einem Computer verbinden, um Shizuku neu zu starten.</string>
+    <string name="settings_shared_shizuku_permission_flow_error_card_shizuku_content">Shizuku ist eine Nicht-Root-App, die es Apps wie system tap ermöglicht, Code mit speziellen Berechtigungen auszuführen. Dies geschieht durch die Ausführung eines Befehls auf der ADB (Android Debug Bridge) Shell, einmal pro Neustart. Auf Geräten mit Android 11+ kann dies ohne einen Computer erfolgen, aber auf älteren Versionen musst du dich einmal pro Neustart mit einem Computer verbinden, um Shizuku neu zu starten.</string>
     <string name="settings_shared_shizuku_permission_flow_error_card_shizuku_button">Hole dir Shizuku</string>
     <string name="settings_shared_shizuku_permission_flow_error_card_sui_title">Sui</string>
-    <string name="settings_shared_shizuku_permission_flow_error_card_sui_content">Sui ist ein Magisk-Modul, das es Anwendungen wie bashamobile ermöglicht, Code als Root auszuführen. Es verwendet dasselbe Framework wie Shizuku und funktioniert daher mit Shizuku-Apps, muss aber nach einem Neustart nicht manuell gestartet werden, sondern wird automatisch ausgeführt.\n<b>Wenn du nicht sicher bist, was Root oder Magisk ist, benutze stattdessen Shizuku.</b></string>
+    <string name="settings_shared_shizuku_permission_flow_error_card_sui_content">Sui ist ein Magisk-Modul, das es Anwendungen wie system tap ermöglicht, Code als Root auszuführen. Es verwendet dasselbe Framework wie Shizuku und funktioniert daher mit Shizuku-Apps, muss aber nach einem Neustart nicht manuell gestartet werden, sondern wird automatisch ausgeführt.\n<b>Wenn du nicht sicher bist, was Root oder Magisk ist, benutze stattdessen Shizuku.</b></string>
     <string name="settings_shared_shizuku_permission_flow_error_card_sui_button">Hole dir Sui</string>
     <string name="settings_shared_package_selector_loading">Apps werden geladen…</string>
     <string name="settings_shared_package_selector_empty">Keine Apps gefunden</string>
     <string name="settings_shared_snapchat_loading_title">Prüfe Verfügbarkeit…</string>
     <string name="settings_shared_snapchat_loading_content">Bitte erteile Root-Zugriff, falls benötigt.</string>
     <string name="settings_shared_snapchat_setup_root_title">Zusätzliche Einrichtung erforderlich</string>
-    <string name="settings_shared_snapchat_setup_root_content">Um Quick Tap to Snap auf deinem Gerät zu aktivieren, befolge bitte die folgenden Schritte:\n<b>Du musst bei Snapchat angemeldet sein, damit dies funktioniert</b>\n1.) Deaktiviere deine Internetverbindung - sowohl WLAN als auch mobile Daten (nutze am besten den Flugmodus).<b>Aktiviere beide nicht, bis du die folgenden Schritte durchgeführt hast.</b>\n2.) Wähle die Option unten, um Snapchat zu öffnen - du musst diesen Button verwenden, da er mit bestimmten Optionen geöffnet werden muss, um die Aufforderung anzuzeigen.\n3.) Snapchat wird geöffnet und fordert dich auf, die Einstellungen zu entsperren - das ist normal, bestätige einfach den Dialog.\n4.) Ein Dialog wird angezeigt, in dem du gefragt wirst, ob du Quick Tap to Snap aktivieren möchtest. <b>Du wirst keine Systemaufforderung zur Aktivierung sehen, das ist normal.</b>\n5.) Kehre zu bashamobile zurück, indem du Snapchat schließt, um die Einrichtung abzuschließen.</string>
+    <string name="settings_shared_snapchat_setup_root_content">Um Quick Tap to Snap auf deinem Gerät zu aktivieren, befolge bitte die folgenden Schritte:\n<b>Du musst bei Snapchat angemeldet sein, damit dies funktioniert</b>\n1.) Deaktiviere deine Internetverbindung - sowohl WLAN als auch mobile Daten (nutze am besten den Flugmodus).<b>Aktiviere beide nicht, bis du die folgenden Schritte durchgeführt hast.</b>\n2.) Wähle die Option unten, um Snapchat zu öffnen - du musst diesen Button verwenden, da er mit bestimmten Optionen geöffnet werden muss, um die Aufforderung anzuzeigen.\n3.) Snapchat wird geöffnet und fordert dich auf, die Einstellungen zu entsperren - das ist normal, bestätige einfach den Dialog.\n4.) Ein Dialog wird angezeigt, in dem du gefragt wirst, ob du Quick Tap to Snap aktivieren möchtest. <b>Du wirst keine Systemaufforderung zur Aktivierung sehen, das ist normal.</b>\n5.) Kehre zu system tap zurück, indem du Snapchat schließt, um die Einrichtung abzuschließen.</string>
     <string name="settings_shared_snapchat_setup_root_button">Öffne Snapchat</string>
     <string name="settings_shared_snapchat_setup_no_root_title">Zusätzliche Einrichtung erforderlich</string>
-    <string name="settings_shared_snapchat_setup_no_root_content">Um Quick Tap to Snap einzurichten, musst du ein paar Schritte befolgen. Diese Schritte erfordern einen Neustart des Telefons und eine vorübergehende Reaktivierung der Quick Tap-Geste des Systems (wodurch der Zugriff auf bashamobile gesperrt wird, bis alle Schritte abgeschlossen sind), daher wurden sie auf eine externe Website gestellt, um sie leichter zugänglich zu machen.</string>
+    <string name="settings_shared_snapchat_setup_no_root_content">Um Quick Tap to Snap einzurichten, musst du ein paar Schritte befolgen. Diese Schritte erfordern einen Neustart des Telefons und eine vorübergehende Reaktivierung der Quick Tap-Geste des Systems (wodurch der Zugriff auf system tap gesperrt wird, bis alle Schritte abgeschlossen sind), daher wurden sie auf eine externe Website gestellt, um sie leichter zugänglich zu machen.</string>
     <string name="settings_shared_snapchat_setup_no_root_button">Anleitung öffnen</string>
     <string name="settings_shared_snapchat_setup_incompatible_title">Nicht kompatibel</string>
     <string name="settings_shared_snapchat_setup_incompatible_content">Für Quick Tap to Snap muss leider Root-Zugriff auf deinem Gerät aktiviert sein.</string>
@@ -611,15 +611,15 @@
     <string name="bs_no_root_content">Leider wurde der Root-Zugriff nicht erkannt oder nicht gewährt. Du musst Root-Zugriff haben, um diese Aktion nutzen zu können.</string>
 
     <!-- Permission Toasts (shown when launching external apps) -->
-    <string name="call_phone_permission_toast">Du musst bashamobile die \"Telefon\"-Berechtigung gewähren, um diese Shortcut-Aktion benutzen zu können. Bitte gewähre sie in den Berechtigungseinstellungen des Geräts.</string>
+    <string name="call_phone_permission_toast">Du musst system tap die \"Telefon\"-Berechtigung gewähren, um diese Shortcut-Aktion benutzen zu können. Bitte gewähre sie in den Berechtigungseinstellungen des Geräts.</string>
     <string name="permission_toast">Bitte erteile die Berechtigung \"%1s\" in den Einstellungen und fahre fort.</string>
-    <string name="permission_toast_draw_over_apps">Bitte erteile die Berechtigung zur Anzeige über anderen Anwendungen für bashamobile</string>
+    <string name="permission_toast_draw_over_apps">Bitte erteile die Berechtigung zur Anzeige über anderen Anwendungen für system tap</string>
     <string name="tasker_content_toast">Bitte aktiviere die Option \"Externen Zugriff zulassen\" in den Einstellungen von Tasker.</string>
 
     <!-- Update downloader -->
     <string name="snackbar_update">Update verfügbar</string>
     <string name="snackbar_update_button">Update</string>
-    <string name="settings_update_heading">bashamobile Version %1s</string>
+    <string name="settings_update_heading">system tap Version %1s</string>
     <string name="settings_update_subheading">Aktuelle Version %1s</string>
     <string name="settings_update_changes">Änderungen</string>
     <string name="settings_update_open_installer">Starte Installation</string>
@@ -646,15 +646,15 @@
     <string name="tasker_config_label_triple">Rückseite dreimal antippen</string>
 
     <!-- Accessibility Service info in settings -->
-    <string name="accessibility_service_label">bashamobile</string>
-    <string name="accessibility_service_label_gesture">bashamobile Hintergrundservice</string>
-    <string name="accessibility_service_description">bashamobile als Bedienungshilfe\n\n<b>Wichtiger Hinweis: Über keine deiner Apps werden Daten gesammelt. Dieser Dienst wird nur genutzt, um die Erkennung aktiv zu halten und Interaktionen mit dem Gerät zu ermöglichen.</b></string>
-    <string name="accessibility_service_description_gesture">bashamobile Bedienungshilfe für Gesten\n\n<b>Du musst diesen Service nicht aktivieren, um die App zu benutzen, wenn sie dich nicht darauf hinweist. Er wird nur für bestimmte Aktionen benötigt.</b>\n\n<b>Wichtiger Hinweis: Über keine deiner Apps werden Daten gesammelt. Dieser Dienst wird nur genutzt, um die Erkennung aktiv zu halten und Interaktionen mit dem Gerät zu ermöglichen.\n\nDies ist ein separater Service, aufgrund der Funktionsweise von Android und der Art und Weise, wie Apps ihre Benutzeroberfläche anpassen, wenn Dienste, die Gesten ausführen können, aktiviert sind. Zum Beispiel wird Chrome die Titelleiste beim Scrollen nicht ausblenden, wenn dieser Dienst aktiviert ist.</b></string>
+    <string name="accessibility_service_label">system tap</string>
+    <string name="accessibility_service_label_gesture">system tap Hintergrundservice</string>
+    <string name="accessibility_service_description">system tap als Bedienungshilfe\n\n<b>Wichtiger Hinweis: Über keine deiner Apps werden Daten gesammelt. Dieser Dienst wird nur genutzt, um die Erkennung aktiv zu halten und Interaktionen mit dem Gerät zu ermöglichen.</b></string>
+    <string name="accessibility_service_description_gesture">system tap Bedienungshilfe für Gesten\n\n<b>Du musst diesen Service nicht aktivieren, um die App zu benutzen, wenn sie dich nicht darauf hinweist. Er wird nur für bestimmte Aktionen benötigt.</b>\n\n<b>Wichtiger Hinweis: Über keine deiner Apps werden Daten gesammelt. Dieser Dienst wird nur genutzt, um die Erkennung aktiv zu halten und Interaktionen mit dem Gerät zu ermöglichen.\n\nDies ist ein separater Service, aufgrund der Funktionsweise von Android und der Art und Weise, wie Apps ihre Benutzeroberfläche anpassen, wenn Dienste, die Gesten ausführen können, aktiviert sind. Zum Beispiel wird Chrome die Titelleiste beim Scrollen nicht ausblenden, wenn dieser Dienst aktiviert ist.</b></string>
 
     <!-- Crash Reporting -->
-    <string name="crash_reporting_title">bashamobile ist abgestürzt</string>
+    <string name="crash_reporting_title">system tap ist abgestürzt</string>
     <string name="crash_reporting_save">Absturzbericht speichern</string>
-    <string name="crash_reporting_content_intro"><![CDATA[bashamobile ist abgestürzt. Bitte berichte über diesen Fehler (inklusive Absturzbericht) in einem <a href="https://kieronquinn.co.uk/redirect/TapTap/github">GitHub issues</a> oder <a href="https://kieronquinn.co.uk/redirect/TapTap/xda">XDA-Thread</a>. Wenn die App während dem Ausführen einer Geste, Aktion oder Ausnahme aufgetreten ist, füge bitte einen Screenshot der entsprechenden Einstellung ein.<br><br><b>Wichtig: Bevor du den Fehler meldest, stelle über die bereitgestellten Suchen sicher, dass nicht schon jemand vor dir den gleichen Fehler gemeldet hat.</b><br><br>Der Absturzbericht wird dir unten angezeigt.]]></string>
+    <string name="crash_reporting_content_intro"><![CDATA[system tap ist abgestürzt. Bitte berichte über diesen Fehler (inklusive Absturzbericht) in einem <a href="https://kieronquinn.co.uk/redirect/TapTap/github">GitHub issues</a> oder <a href="https://kieronquinn.co.uk/redirect/TapTap/xda">XDA-Thread</a>. Wenn die App während dem Ausführen einer Geste, Aktion oder Ausnahme aufgetreten ist, füge bitte einen Screenshot der entsprechenden Einstellung ein.<br><br><b>Wichtig: Bevor du den Fehler meldest, stelle über die bereitgestellten Suchen sicher, dass nicht schon jemand vor dir den gleichen Fehler gemeldet hat.</b><br><br>Der Absturzbericht wird dir unten angezeigt.]]></string>
     <string name="crash_reporting_toast_success">Absturzbericht wurde gespeichert</string>
     <string name="crash_reporting_toast_failed">Fehler beim Speichern des Absturzberichts</string>
 

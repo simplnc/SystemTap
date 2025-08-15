@@ -1,24 +1,24 @@
 <resources>
 
     <!-- Launcher app name -->
-    <string name="app_name">bashamobile</string>
+    <string name="app_name">system tap</string>
 
     <!-- Generic -->
     <string name="search">搜索</string>
     <string name="close">关闭</string>
 
     <!-- Setup > Landing -->
-    <string name="landing_title">欢迎使用 bashamobile</string>
+    <string name="landing_title">欢迎使用 system tap</string>
     <string name="landing_button_get_started">让我们开始吧！</string>
     <string name="landing_button_skip_setup">跳过教程</string>
 
     <!-- Setup > Info -->
-    <string name="setup_foss_info_title">bashamobile</string>
-    <string name="setup_foss_info_content"><![CDATA[bashamobile 将一直保持自由且开源. 任何人都可以在 <a href=\"https://kieronquinn.co.uk/redirect/TapTap/github\">GitHub</a> 上查看源码。 官方下载渠道<b>只有</b> <a href="https://kieronquinn.co.uk/redirect/TapTap/xda">XDA</a>， <a href="https://kieronquinn.co.uk/redirect/TapTap/github">GitHub</a> 和 <a href="https://kieronquinn.co.uk/redirect/TapTap/apkmirror">APKMirror</a>。<br>如果您允许此应用程序访问互联网，将始终自动从 GitHub 下载更新。]]></string>
-    <string name="setup_foss_info_warning">请只从上方提供的官方渠道下载使用 bashamobile。<b>如果您从第三方渠道下载，强烈建议您卸载并从上方提供的官方链接重新安装</b>。点击以获取更多信息。</string>
+    <string name="setup_foss_info_title">system tap</string>
+    <string name="setup_foss_info_content"><![CDATA[system tap 将一直保持自由且开源. 任何人都可以在 <a href=\"https://kieronquinn.co.uk/redirect/TapTap/github\">GitHub</a> 上查看源码。 官方下载渠道<b>只有</b> <a href="https://kieronquinn.co.uk/redirect/TapTap/xda">XDA</a>， <a href="https://kieronquinn.co.uk/redirect/TapTap/github">GitHub</a> 和 <a href="https://kieronquinn.co.uk/redirect/TapTap/apkmirror">APKMirror</a>。<br>如果您允许此应用程序访问互联网，将始终自动从 GitHub 下载更新。]]></string>
+    <string name="setup_foss_info_warning">请只从上方提供的官方渠道下载使用 system tap。<b>如果您从第三方渠道下载，强烈建议您卸载并从上方提供的官方链接重新安装</b>。点击以获取更多信息。</string>
     <string name="setup_foss_info_bs_title">注意</string>
-    <string name="setup_foss_info_bs_content">bashamobile 将使用无障碍服务。 这使应用程序可以在您的设备上自动执行操作。您不应该授予任何不受信任的应用程序此权限。这就是为什么 bashamobile 是开源的 - 这样，任何人都可以查阅代码，并检查是否有恶意行为。若您从第三方渠道下载此应用程序，我们将无法保证您所下载的副本是否安全。所以我们强烈建议您从官方渠道下载安装此应用程序。</string>
-    <string name="setup_foss_info_content_lower">如果您喜欢 bashamobile，并想要捐赠开发者，您可以点击页面下方的更多按钮。\n无论您是否捐赠，我们都非常感谢您分享、支持和使用 bashamobile 谢谢你!</string>
+    <string name="setup_foss_info_bs_content">system tap 将使用无障碍服务。 这使应用程序可以在您的设备上自动执行操作。您不应该授予任何不受信任的应用程序此权限。这就是为什么 system tap 是开源的 - 这样，任何人都可以查阅代码，并检查是否有恶意行为。若您从第三方渠道下载此应用程序，我们将无法保证您所下载的副本是否安全。所以我们强烈建议您从官方渠道下载安装此应用程序。</string>
+    <string name="setup_foss_info_content_lower">如果您喜欢 system tap，并想要捐赠开发者，您可以点击页面下方的更多按钮。\n无论您是否捐赠，我们都非常感谢您分享、支持和使用 system tap 谢谢你!</string>
     <string name="setup_info_next">下一步</string>
 
     <!-- Setup > Gesture -->
@@ -45,23 +45,23 @@
 
     <!-- No Gyroscope Modal -->
     <string name="modal_no_gyroscope_title">不支持的设备</string>
-    <string name="modal_no_gyroscope_content">你的设备没有所需要的的传感器（陀螺仪）来使用此应用程序。bashamobile 将无法在此设备上运行。</string>
+    <string name="modal_no_gyroscope_content">你的设备没有所需要的的传感器（陀螺仪）来使用此应用程序。system tap 将无法在此设备上运行。</string>
 
     <!-- Disable Columbus Modal -->
     <string name="modal_disable_columbus_title">停用快速点击</string>
-    <string name="modal_disable_columbus_content">您已在设备上启用了系统提供的快速点击功能，请禁用它，否则 bashamobile 将无法正常工作。快速点击功能也许可以在系统设置中的 系统 > 手势 下找到。</string>
-    <string name="modal_disable_columbus_card">你可能需要在禁用系统自带的快速点击后重新启动，以使 bashamobile 的某些功能发挥作用。</string>
+    <string name="modal_disable_columbus_content">您已在设备上启用了系统提供的快速点击功能，请禁用它，否则 system tap 将无法正常工作。快速点击功能也许可以在系统设置中的 系统 > 手势 下找到。</string>
+    <string name="modal_disable_columbus_card">你可能需要在禁用系统自带的快速点击后重新启动，以使 system tap 的某些功能发挥作用。</string>
     <string name="modal_disable_columbus_button">打开设置</string>
 
     <!-- Settings UI -->
-    <string name="settings_main_enable_tap_tap">bashamobile</string>
+    <string name="settings_main_enable_tap_tap">system tap</string>
     <string name="setting_bottom_nav_settings">设置</string>
     <string name="setting_bottom_nav_gesture">手势</string>
     <string name="setting_bottom_nav_more">更多</string>
     <string name="menu_setup_wizard">重新配置</string>
 
     <!-- Settings > Gesture -->
-    <string name="settings_main_battery"><b>关闭电池优化</b>\n来确保 bashamobile 不会在后台被杀死, 点击以关闭此应用的电池优化配置</string>
+    <string name="settings_main_battery"><b>关闭电池优化</b>\n来确保 system tap 不会在后台被杀死, 点击以关闭此应用的电池优化配置</string>
     <string name="setting_actions_double">双击动作</string>
     <string name="setting_actions_triple">三击动作</string>
     <string name="settings_actions_desc_double">设置双击手机背面后所执行的动作</string>
@@ -170,11 +170,11 @@
     <string name="setting_gesture_sensitivity_desc">通过调整「噪音」过滤掉的力度来改变手势的灵敏度。较低的灵敏度意味着在大多数设备上较难激活，而较高的灵敏度则意味着容易被误激活。</string>
     <string name="setting_gesture_sensitivity_desc_disabled">已在高级设置中设置了自定义灵敏度，重新设置它以使用此选项。</string>
     <string name="setting_gesture_sensitivity_chre">低灵敏度</string>
-    <string name="setting_gesture_sensitivity_chre_desc">对 bashamobile 手势使用较低的灵敏度，使其更难运行。</string>
+    <string name="setting_gesture_sensitivity_chre_desc">对 system tap 手势使用较低的灵敏度，使其更难运行。</string>
 
     <!-- Settings > Settings > Low Power Mode -->
     <string name="settings_low_power_mode_enable">低功耗模式</string>
-    <string name="setting_low_power_mode_content">Low Power Mode uses the device\'s \"Context Hub\", which allows for running \"nanoapps\" on the low-power CPU. For this to work, there must be the Columbus nanoapp compiled for your device installed, which has to be done by the OEM. bashamobile is then able to use this app, in the same way that the system Quick Tap feature does, to detect the gesture in a significantly more power efficient way.\n\n<b>Shizuku (or alternatively sui) is also required for this option, as it requires system permissions not available to user apps.\nOn Android 13 or above, Sui is required due to platform changes beyond bashamobile\'s control.</b>\n\n<b>Note：You may need to reboot after enabling this option for the first time for it to take effect.</b></string>
+    <string name="setting_low_power_mode_content">Low Power Mode uses the device\'s \"Context Hub\", which allows for running \"nanoapps\" on the low-power CPU. For this to work, there must be the Columbus nanoapp compiled for your device installed, which has to be done by the OEM. system tap is then able to use this app, in the same way that the system Quick Tap feature does, to detect the gesture in a significantly more power efficient way.\n\n<b>Shizuku (or alternatively sui) is also required for this option, as it requires system permissions not available to user apps.\nOn Android 13 or above, Sui is required due to platform changes beyond system tap\'s control.</b>\n\n<b>Note：You may need to reboot after enabling this option for the first time for it to take effect.</b></string>
     <string name="settings_low_power_mode_error_shizuku">此选项需要 Shizuku / sui 才能发挥作用。 Shizuku 可以在没有 Root 的情况下工作，但如果您已 Root， 强烈建议您使用 <b>sui 模块</b >来让此应用程序可开机自启，点击以请求权限</string>
     <string name="settings_low_power_mode_error_button_shizuku">什么是 Shizuku / Sui?</string>
     <string name="settings_low_power_mode_error_button_sui">请求 <b>sui</b> 权限</string>
@@ -213,15 +213,15 @@
     <!-- Settings > Settings > Advanced -->
     <string name="setting_advanced">高级设置</string>
     <string name="setting_advanced_desc">高级设置和调整，以改变性能及更多内容</string>
-    <string name="setting_advanced_warning_desc">这些设置是试验性的，可能在你的设备上不工作，或可能导致 bashamobile 完全停止工作。</string>
+    <string name="setting_advanced_warning_desc">这些设置是试验性的，可能在你的设备上不工作，或可能导致 system tap 完全停止工作。</string>
     <string name="setting_advanced_restart_service">自动重启服务</string>
-    <string name="setting_advanced_restart_service_desc">试图每小时自动重启 bashamobile 监听器组件。</string>
+    <string name="setting_advanced_restart_service_desc">试图每小时自动重启 system tap 监听器组件。</string>
     <string name="setting_advanced_legacy_wake">传统唤醒设备方法</string>
     <string name="setting_advanced_legacy_wake_desc">使用传统的唤醒设备的方法，启用唤醒设备选项。这可能不会在所有设备上工作，但在少数罕见情况下可能更可靠。</string>
     <string name="setting_advanced_tensor_low_power">Tensor 低功耗模式</string>
     <string name="setting_advanced_tensor_low_power_desc">如果可用，将在 Tensor 处理器上运行低功耗模式; 如果你有性能问题或手势完全停止工作，请禁用。</string>
     <string name="settings_advanced_monet_color_picker">壁纸颜色</string>
-    <string name="settings_advanced_monet_color_picker_desc">开启后bashamobile 界面将使用壁纸颜色</string>
+    <string name="settings_advanced_monet_color_picker_desc">开启后system tap 界面将使用壁纸颜色</string>
     <string name="setting_advanced_custom_sensitivity">自定义灵敏度</string>
     <string name="setting_advanced_custom_sensitivity_desc">设置一个灵敏度数值.\n重要：您的只应在<b>没有</b>自带灵敏度的设备上使用此功能</string>
     <string name="bs_advanced_custom_sensitivity">自定义灵敏度</string>
@@ -242,9 +242,9 @@
     <string name="setting_internet">允许网络权限</string>
     <string name="setting_internet_desc">这将只用于定期检查设备配置和应用程序更新</string>
     <string name="setting_crash_reporting">崩溃通知</string>
-    <string name="setting_crash_reporting_desc">当 bashamobile 崩溃时显示一个通知, 您将可以保存日志以便在 Github 或 XDA 上反馈. 此选项<b>不会</b>自动将崩溃日志发送到服务器。</string>
+    <string name="setting_crash_reporting_desc">当 system tap 崩溃时显示一个通知, 您将可以保存日志以便在 Github 或 XDA 上反馈. 此选项<b>不会</b>自动将崩溃日志发送到服务器。</string>
     <string name="battery_and_optimisation">电池 &amp; 优化</string>
-    <string name="battery_and_optimisation_desc">为什么 bashamobile 会耗电？为什么它在后台运行时可能会被杀死？这里将告诉你如何解决这个问题。</string>
+    <string name="battery_and_optimisation_desc">为什么 system tap 会耗电？为什么它在后台运行时可能会被杀死？这里将告诉你如何解决这个问题。</string>
     <string name="xda_thread">XDA 帖子</string>
     <string name="github">GitHub</string>
     <string name="libraries">第三方库</string>
@@ -253,12 +253,12 @@
     <string name="about_version">版本：%1s\n由 Kieron Quinn 开发</string>
 
     <!-- Settings > More > Battery Optimisation -->
-    <string name="settings_battery_header"><![CDATA[bashamobile 将会在后台使用您的传感器数据, 可能会长时间使用您的 CPU 并耗尽电量。 在具有张量加速器的设备上（如高通的 Hexagon 张量加速器），您的电量可能不会受到太大影响。<br><a href="https://kieronquinn.co.uk/redirect/TapTap/battery">点击这里了解更多</a>。]]></string>
-    <string name="settings_battery_info"><![CDATA[bashamobile 需要禁用 Android 对此应用程序的电池优化功能. 这有助于防止它在后台被杀死。<br><b>注意:</b> 在一些设备上，你可能还需要禁用额外的设置，以防止应用程序被杀死。<a href="https://dontkillmyapp.com/">点击这里了解更多</a>。]]></string>
+    <string name="settings_battery_header"><![CDATA[system tap 将会在后台使用您的传感器数据, 可能会长时间使用您的 CPU 并耗尽电量。 在具有张量加速器的设备上（如高通的 Hexagon 张量加速器），您的电量可能不会受到太大影响。<br><a href="https://kieronquinn.co.uk/redirect/TapTap/battery">点击这里了解更多</a>。]]></string>
+    <string name="settings_battery_info"><![CDATA[system tap 需要禁用 Android 对此应用程序的电池优化功能. 这有助于防止它在后台被杀死。<br><b>注意:</b> 在一些设备上，你可能还需要禁用额外的设置，以防止应用程序被杀死。<a href="https://dontkillmyapp.com/">点击这里了解更多</a>。]]></string>
     <string name="settings_battery_disable_optimisation">关闭电池优化</string>
-    <string name="settings_battery_disable_optimisation_desc_enabled">系统针对 bashamobile 的电池优化已启用</string>
-    <string name="settings_battery_disable_optimisation_desc_disabled">系统针对 bashamobile 的电池优化已禁用</string>
-    <string name="settings_battery_oem_info">你的设备似乎有 OEM 定制的电池优化功能。 bashamobile 无法帮您关闭它，请检查您的设置以确认它们是否已被禁用。</string>
+    <string name="settings_battery_disable_optimisation_desc_enabled">系统针对 system tap 的电池优化已启用</string>
+    <string name="settings_battery_disable_optimisation_desc_disabled">系统针对 system tap 的电池优化已禁用</string>
+    <string name="settings_battery_oem_info">你的设备似乎有 OEM 定制的电池优化功能。 system tap 无法帮您关闭它，请检查您的设置以确认它们是否已被禁用。</string>
     <string name="settings_battery_oem_button">打开厂商电池设置</string>
 
     <!-- Settings > More > Backup & Restore > Backup -->
@@ -395,7 +395,7 @@
     <string name="action_accessibility_button_chooser">无障碍按钮选择</string>
     <string name="action_accessibility_button_chooser_desc">调出无障碍按钮的选择菜单</string>
     <string name="action_accessibility_shortcut">触发无障碍快捷方式</string>
-    <string name="action_accessibility_shortcut_desc">触发无障碍快捷方式。在使用此操作之前，请确保未将 bashamobile 设置为使用快捷方式！</string>
+    <string name="action_accessibility_shortcut_desc">触发无障碍快捷方式。在使用此操作之前，请确保未将 system tap 设置为使用快捷方式！</string>
     <string name="action_app_drawer">应用抽屉</string>
     <string name="action_app_drawer_desc">为<b>受支持的启动器</b>打开应用抽屉。这只适用于基于 Android 11 的启动器。</string>
     <string name="action_accept_call">接听电话</string>
@@ -498,8 +498,8 @@
     <string name="gate_unsupported_reason_foldable">需要一个受支持的可折叠设备</string>
 
     <!-- Notification channels & content -->
-    <string name="tap_notification_title">bashamobile 服务</string>
-    <string name="tap_notification_content">bashamobile 正在后台运行，点击以隐藏</string>
+    <string name="tap_notification_title">system tap 服务</string>
+    <string name="tap_notification_content">system tap 正在后台运行，点击以隐藏</string>
     <string name="tap_notification_channel_title">后台通知</string>
     <string name="tap_notification_channel_description">当启用使用独立服务的选项时，用于保持 Tap,Tap 在后台运行的通知。</string>
     <string name="notification_channel_actions_title">动作</string>
@@ -517,22 +517,22 @@
     <string name="notification_channel_service_content">关于服务的通知，包括加载和错误的通知</string>
     <string name="notification_service_loading_title">服务启动中…</string>
     <string name="notification_service_loading_title_restart">服务重启中…</string>
-    <string name="notification_service_loading_content">bashamobile 服务正在加载</string>
+    <string name="notification_service_loading_content">system tap 服务正在加载</string>
     <string name="notification_service_error_title">启动服务时发生了一个错误</string>
     <string name="notification_service_running_error_title">重新连接到 Shizuku 服务时发生了一个错误</string>
     <string name="notification_service_error_content_shizuku_not_running">无法连接到 Shizuku，请确保其正在运行后重试。</string>
-    <string name="notification_service_error_content_shizuku_permission_denied">连接到 Shizuku 的权限被拒绝，请在 Shizuku 授权 bashamobile 后重试。</string>
+    <string name="notification_service_error_content_shizuku_permission_denied">连接到 Shizuku 的权限被拒绝，请在 Shizuku 授权 system tap 后重试。</string>
     <string name="notification_service_error_action_retry">重试</string>
     <string name="notification_service_error_root_title">连接到服务时发生了一个错误</string>
-    <string name="notification_service_error_root_content">确保您已授予 bashamobile Root权限</string>
+    <string name="notification_service_error_root_content">确保您已授予 system tap Root权限</string>
     <string name="notification_channel_crash_title">崩溃通知</string>
-    <string name="notification_channel_crash_content">在 bashamobile 崩溃后显示通知以便保存日志</string>
-    <string name="notification_crash_title">bashamobile 已崩溃！</string>
-    <string name="notification_crash_content">点击查看崩溃日志，并导出日志发送到 GitHub 或 XDA 上。你可以在bashamobile 的设置中停用崩溃通知。</string>
+    <string name="notification_channel_crash_content">在 system tap 崩溃后显示通知以便保存日志</string>
+    <string name="notification_crash_title">system tap 已崩溃！</string>
+    <string name="notification_crash_content">点击查看崩溃日志，并导出日志发送到 GitHub 或 XDA 上。你可以在system tap 的设置中停用崩溃通知。</string>
     <string name="tap_update_notification_channel_title">更新通知</string>
     <string name="tap_update_notification_channel_description">应用程序每天检查更新时显示通知</string>
-    <string name="tap_update_notification_title">bashamobile 更新可用</string>
-    <string name="tap_update_notification_content">bashamobile 有更新啦！ (%1s to %1s)</string>
+    <string name="tap_update_notification_title">system tap 更新可用</string>
+    <string name="tap_update_notification_content">system tap 有更新啦！ (%1s to %1s)</string>
 
     <!-- Shared Pickers, for Gates & Actions -->
     <string name="settings_shared_app_shortcuts_selector_loading">加载应用程序快捷方式中…</string>
@@ -546,9 +546,9 @@
     <string name="settings_shared_shizuku_permission_flow_error_content_action">动作</string>
     <string name="settings_shared_shizuku_permission_flow_error_content_gate">门槛</string>
     <string name="settings_shared_shizuku_permission_flow_error_card_shizuku_title">Shizuku</string>
-    <string name="settings_shared_shizuku_permission_flow_error_card_shizuku_content">Shizuku 是一个非 Root 应用，它允许像 bashamobile 这样的应用程序以特殊权限运行代码。它通过在ADB（安卓调试桥）Shell上运行一个命令来实现，每次重启都要运行一次。若您使用 Android 11 或以上的设备，此操作可以在没有电脑的情况下完成，但在旧版本中，你需要在每次重启时连接到电脑，重新启动 Shizuku。</string>
+    <string name="settings_shared_shizuku_permission_flow_error_card_shizuku_content">Shizuku 是一个非 Root 应用，它允许像 system tap 这样的应用程序以特殊权限运行代码。它通过在ADB（安卓调试桥）Shell上运行一个命令来实现，每次重启都要运行一次。若您使用 Android 11 或以上的设备，此操作可以在没有电脑的情况下完成，但在旧版本中，你需要在每次重启时连接到电脑，重新启动 Shizuku。</string>
     <string name="settings_shared_shizuku_permission_flow_error_card_shizuku_button">获取 Shizuku</string>
-    <string name="settings_shared_shizuku_permission_flow_error_card_sui_content">Sui 是一个 Magisk 模块，它允许像 bashamobile 这样的应用程序以 Root权限 运行代码。它使用的是与 Shizuku 相同的框架。 并可和 Shizuku同时工作，但是在重启后不要手动启动服务，其将会自动运行。\n<b>如果你不知道 Root 或 Magisk 是什么，就用 Shizuku 代替。</b></string>
+    <string name="settings_shared_shizuku_permission_flow_error_card_sui_content">Sui 是一个 Magisk 模块，它允许像 system tap 这样的应用程序以 Root权限 运行代码。它使用的是与 Shizuku 相同的框架。 并可和 Shizuku同时工作，但是在重启后不要手动启动服务，其将会自动运行。\n<b>如果你不知道 Root 或 Magisk 是什么，就用 Shizuku 代替。</b></string>
     <string name="settings_shared_shizuku_permission_flow_error_card_sui_title">Sui</string>
     <string name="settings_shared_shizuku_permission_flow_error_card_sui_button">获取 Sui</string>
     <string name="settings_shared_package_selector_loading">加载应用中…</string>
@@ -556,10 +556,10 @@
     <string name="settings_shared_snapchat_loading_title">检查可用性中…</string>
     <string name="settings_shared_snapchat_loading_content">如请求 Root权限，请授予</string>
     <string name="settings_shared_snapchat_setup_root_title">需要额外的设置</string>
-    <string name="settings_shared_snapchat_setup_root_content">要在您的设备上启用快速点击，请按照以下步骤进行：\n<b>你必须登录到 Snapchat 才能工作。</b>\n1.) 禁用你的互联网连接 -- 包括 WiFi 和移动数据（最好是使用飞行模式）。<b>在你完成这些步骤之前，不要重新启用它。</b>\n2.) 选择下面的选项来打开 Snapchat -- 你必须使用这个按钮，因为它必须用某些选项打开，以显示提示。\n3.) Snapchat 会打开并提示你解锁以完成设置 -- 这是正常的，只需确定对话框即可。\n4.) 会出现一个对话框，要求你启用快速点击抓拍，请启用它。<b>你不会看到启用它的系统提示，这是正常的。</b>\n5.) 通过关闭Snapchat返回到 bashamobile，完成设置。</string>
+    <string name="settings_shared_snapchat_setup_root_content">要在您的设备上启用快速点击，请按照以下步骤进行：\n<b>你必须登录到 Snapchat 才能工作。</b>\n1.) 禁用你的互联网连接 -- 包括 WiFi 和移动数据（最好是使用飞行模式）。<b>在你完成这些步骤之前，不要重新启用它。</b>\n2.) 选择下面的选项来打开 Snapchat -- 你必须使用这个按钮，因为它必须用某些选项打开，以显示提示。\n3.) Snapchat 会打开并提示你解锁以完成设置 -- 这是正常的，只需确定对话框即可。\n4.) 会出现一个对话框，要求你启用快速点击抓拍，请启用它。<b>你不会看到启用它的系统提示，这是正常的。</b>\n5.) 通过关闭Snapchat返回到 system tap，完成设置。</string>
     <string name="settings_shared_snapchat_setup_root_button">打开 Snapchat</string>
     <string name="settings_shared_snapchat_setup_no_root_title">需要额外设置</string>
-    <string name="settings_shared_snapchat_setup_no_root_content">若要设置快速点击功能，有几个步骤需要遵循。这些步骤需要重新启动你的手机，并暂时重新激活系统的快速点击手势（这将阻止对 bashamobile 的访问，直到完成这些步骤），所以它们被放在一个外部网站上，以使它们更容易访问。</string>
+    <string name="settings_shared_snapchat_setup_no_root_content">若要设置快速点击功能，有几个步骤需要遵循。这些步骤需要重新启动你的手机，并暂时重新激活系统的快速点击手势（这将阻止对 system tap 的访问，直到完成这些步骤），所以它们被放在一个外部网站上，以使它们更容易访问。</string>
     <string name="settings_shared_snapchat_setup_no_root_button">公开教程</string>
     <string name="settings_shared_snapchat_setup_incompatible_title">未完成</string>
     <string name="settings_shared_snapchat_setup_incompatible_content">对不起，快速点击抓拍需要在您的设备上启用根权限。.</string>
@@ -575,15 +575,15 @@
     <string name="bs_no_root_content">对不起，没有检测到 Root 权限或没有授予 Root 权限。你必须有Root 权限才能使用此动作。</string>
 
     <!-- Permission Toasts (shown when launching external apps) -->
-    <string name="call_phone_permission_toast">你需要授予 bashamobile电话权限来使用此快捷方式动作。请前往设备权限管理界面授予</string>
+    <string name="call_phone_permission_toast">你需要授予 system tap电话权限来使用此快捷方式动作。请前往设备权限管理界面授予</string>
     <string name="permission_toast">请在设置中授予 %1s 权限以继续</string>
-    <string name="permission_toast_draw_over_apps">请为 bashamobile 授予显示在其他应用上层权限</string>
+    <string name="permission_toast_draw_over_apps">请为 system tap 授予显示在其他应用上层权限</string>
     <string name="tasker_content_toast">请在 Tasker 设置中打开 \"允许外部访问\" 选项.</string>
 
     <!-- Update downloader -->
     <string name="snackbar_update">新版本可用</string>
     <string name="snackbar_update_button">更新</string>
-    <string name="settings_update_heading">bashamobile 版本 %1s</string>
+    <string name="settings_update_heading">system tap 版本 %1s</string>
     <string name="settings_update_subheading">当前版本 %1s</string>
     <string name="settings_update_changes">更新了什么</string>
     <string name="settings_update_open_installer">开始安装</string>
@@ -610,15 +610,15 @@
     <string name="tasker_config_label_triple">三击背面</string>
 
     <!-- Accessibility Service info in settings -->
-    <string name="accessibility_service_label">bashamobile</string>
-    <string name="accessibility_service_label_gesture">bashamobile 孪生服务</string>
-    <string name="accessibility_service_description">bashamobile 无障碍服务 \n\n<b>重要提示：我们不会收集您任何应用程序的数据，这项服务仅用来保活并执行自动手势</b></string>
-    <string name="accessibility_service_description_gesture">bashamobile 手势无障碍服务 \n\n<b>如果应用程序提示您开启此服务，则您不需要启用它。 只有在某些特定动作运行时才需要。</b>\n\n<b>Important Note：No data is collected from any of your apps, this service is simply used to provide the gesture interaction with the device.\n\nThis is a separate service due to how Android works and how apps adapt their UI when services that can perform gestures are enabled. For example, Chrome will not hide the Omnibar on scroll with this service enabled.</b></string>
+    <string name="accessibility_service_label">system tap</string>
+    <string name="accessibility_service_label_gesture">system tap 孪生服务</string>
+    <string name="accessibility_service_description">system tap 无障碍服务 \n\n<b>重要提示：我们不会收集您任何应用程序的数据，这项服务仅用来保活并执行自动手势</b></string>
+    <string name="accessibility_service_description_gesture">system tap 手势无障碍服务 \n\n<b>如果应用程序提示您开启此服务，则您不需要启用它。 只有在某些特定动作运行时才需要。</b>\n\n<b>Important Note：No data is collected from any of your apps, this service is simply used to provide the gesture interaction with the device.\n\nThis is a separate service due to how Android works and how apps adapt their UI when services that can perform gestures are enabled. For example, Chrome will not hide the Omnibar on scroll with this service enabled.</b></string>
 
     <!-- Crash Reporting -->
-    <string name="crash_reporting_title">bashamobile 已崩溃</string>
+    <string name="crash_reporting_title">system tap 已崩溃</string>
     <string name="crash_reporting_save">保存崩溃报告</string>
-    <string name="crash_reporting_content_intro"><![CDATA[bashamobile 已崩溃。 请带上报告日志并在 <a href="https://kieronquinn.co.uk/redirect/TapTap/github">GitHub issues</a> 或 <a href="https://kieronquinn.co.uk/redirect/TapTap/xda">XDA 帖子</a>上反馈此问题。 如果此崩溃是手势、动作或门槛导致的, 请附上你所使用设置的屏幕截图。<br><br><b>重要提示：在报告之前，请使用所提供的搜索工具，确保该问题尚未被反馈。</b><br><br>该错误报告也将显示在下方。]]></string>
+    <string name="crash_reporting_content_intro"><![CDATA[system tap 已崩溃。 请带上报告日志并在 <a href="https://kieronquinn.co.uk/redirect/TapTap/github">GitHub issues</a> 或 <a href="https://kieronquinn.co.uk/redirect/TapTap/xda">XDA 帖子</a>上反馈此问题。 如果此崩溃是手势、动作或门槛导致的, 请附上你所使用设置的屏幕截图。<br><br><b>重要提示：在报告之前，请使用所提供的搜索工具，确保该问题尚未被反馈。</b><br><br>该错误报告也将显示在下方。]]></string>
     <string name="crash_reporting_toast_success">报告已保存</string>
     <string name="crash_reporting_toast_failed">报告保存失败</string>
 

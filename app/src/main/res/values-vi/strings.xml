@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">bashamobile</string>
+    <string name="app_name">system tap</string>
     <string name="accessibility_service_description">Cài đặt trợ năng TapTap\n\n<b>Lưu ý: Ứng dụng không thu thập thông tin cá nhân của bạn. Dịch vụ này chỉ được sử dụng để nhận dạng cử chỉ và cung cấp hỗ trợ tương tác với thiết bị</b></string>
     <string name="setting_bottom_nav_gesture">Cử chỉ</string>
     <string name="setting_gates">Cổng</string>
@@ -90,7 +90,7 @@
     <string name="action_launch_shortcut_desc">Khởi chạy một phím tắt ví dụ như chỉ đường của Google Maps</string>
     <string name="action_launch_shortcut_desc_formattable">Khởi chạy %1s (phím tắt vào ứng dụng)</string>
     <string name="action_launch_shortcut_toast">Phím tắt này hiện không được hỗ trợ</string>
-    <string name="call_phone_permission_toast">Bạn cần cấp quyền \"Điện thoại\" cho bashamobile để sử dụng phím tắt này . Truy cập vào \"Trình quản lý quyền\" trên thiết bị của bạn để cấp quyền này</string>
+    <string name="call_phone_permission_toast">Bạn cần cấp quyền \"Điện thoại\" cho system tap để sử dụng phím tắt này . Truy cập vào \"Trình quản lý quyền\" trên thiết bị của bạn để cấp quyền này</string>
 	  <string name="action_split_screen">Chia đôi màn hình</string>
     <string name="action_split_screen_desc">Bắt đầu hoặc tạm dừng tính năng chia đôi màn hình với ứng dụng hiện tại (không hoạt động khi ở màn hình chính)</string>
     <string name="action_reachability">Chế độ một tay</string>
