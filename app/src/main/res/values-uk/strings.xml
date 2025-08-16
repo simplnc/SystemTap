@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Tap, Tap</string>
+    <string name="app_name">system tap</string>
     <string name="accessibility_service_description">Служба доступності TapTap\n\n<b>Важливе примітка: дані із жодного з ваших додатків не збираються. Ця служба просто використовується для підтримки активного розпізнавання і взаємодії з пристроєм.</b></string>
     <string name="setting_bottom_nav_gesture">Жест</string>
     <string name="setting_gates">Заборони</string>
@@ -94,7 +94,7 @@
     <string name="action_launch_shortcut_desc">Виконання дії в додатку, наприклад маршрути в Google Картах</string>
     <string name="action_launch_shortcut_desc_formattable">Виконати %1s (дію в додатку)</string>
     <string name="action_launch_shortcut_toast">Це дія не підтримується в цей момент</string>
-    <string name="call_phone_permission_toast">Вам потрібно надати дозвіл на доступ Tap, Tap до телефону, щоб використовувати цю дію. Будь ласка, надайте його в налаштуваннях дозволу вашого пристрою</string>
+    <string name="call_phone_permission_toast">Вам потрібно надати дозвіл на доступ system tap до телефону, щоб використовувати цю дію. Будь ласка, надайте його в налаштуваннях дозволу вашого пристрою</string>
     <string name="action_split_screen">Розділений екран</string>
     <string name="action_split_screen_desc">Запуск або зупинення режиму розділеного екрана в активному додатку (не працює, коли на головному екрані)</string>
     <string name="action_reachability">Запуск досяжності</string>
@@ -114,7 +114,7 @@
     <string name="gate_keyboard_visibility_desc">Блокує жести, коли клавіатура відкрита та використовується. Зауважте, що це може не завжди працювати, якщо ви не активно набираєте текст.</string>
 
     <string name="battery_and_optimisation">Акумулятор та оптимізація</string>
-    <string name="battery_and_optimisation_desc">Інформація про те, чому Tap, Tap використовує акумулятор і чому його може вбити ваш пристрій під час роботи у фоновому режимі (і як це виправити)</string>
+    <string name="battery_and_optimisation_desc">Інформація про те, чому system tap використовує акумулятор і чому його може вбити ваш пристрій під час роботи у фоновому режимі (і як це виправити)</string>
 
     <string name="gate_orientation_landscape">Альбомна орієнтація</string>
     <string name="gate_orientation_landscape_desc">Блокує жести, коли телефон перебуває в альбомній орієнтації</string>
